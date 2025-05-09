@@ -1,6 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","116598","*** Add/Edit/Search/MassUpdate Case *** Add/Search Case Note  *** Add/Search Case Media","","Fri May 09 07:31:20 UTC 2025","failed","Fri May 09 07:33:16 UTC 2025","","Case","",""
-"","196030","*** Add/Edit/Search Person *** Add/Search Person Note  *** Add/Search Person Media","","Fri May 09 07:31:20 UTC 2025","passed","Fri May 09 07:34:36 UTC 2025","","Person","",""
-"","881490","*** Add/Edit/Search/MassUpdate Item *** Add/Search Item Note  *** Add/Search Item Media","","Fri May 09 07:33:17 UTC 2025","passed","Fri May 09 07:47:58 UTC 2025","","Item","",""
-"","440368","Verify all transactions, data changes and enabled/disabled actions based on Item status","","Fri May 09 07:35:47 UTC 2025","failed","Fri May 09 07:43:07 UTC 2025","","Item Transactions","",""
-"","69979","Add User -- Assign Permissions -- Log in with newly created user","","Fri May 09 07:34:37 UTC 2025","passed","Fri May 09 07:35:47 UTC 2025","","User","",""
